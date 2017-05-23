@@ -1,0 +1,14 @@
+{
+  "name": "elm-one",
+  "version": "1.0.0",
+  "description": "A test project in elm",
+  "main": "elm.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": ""
+}
