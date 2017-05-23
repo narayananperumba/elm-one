@@ -1,7 +1,7 @@
 {
   "version" : "1.0.0",
   "summary" : "A trial project",
-  "repository" : "",
+  "repository" : "https://github.com/narayananperumba/elm-one.git",
   "license" : "BSD3",
   "source-directories" : [
     "src"

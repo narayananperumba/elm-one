@@ -6,7 +6,10 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {},
-  "repository": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/narayananperumba/elm-one.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {},
